@@ -1,4 +1,4 @@
-import react from 'react';
+
 import './App.js';
 
 const summary = Object.keys(this.state.selected).map((feature, idx) => {
